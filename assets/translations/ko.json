@@ -1,0 +1,111 @@
+{
+  "home_screen": {
+    "home": "Home",
+    "market": "Markets",
+    "traders": "Trade",
+    "futures": "Futures",
+    "wallets": "Wallets",
+    "deposit": "Deposit",
+    "referral": "Referral",
+    "earn": "Earn",
+    "more": "More",
+    "strategy_trading": "Strategy\nTrading"
+  },
+  "forget_password_screen": {
+    "success_message": "Password has changed. Please login again to start trading now!"
+  },
+  "code_sent_success": "Your verification code has sent.",
+  "password_error": "Minimum eight characters, at least one capital letter, one number and one special character.",
+  "has_1_2fa": "You must have enable at least one security.",
+  "security_screen": {},
+  "link_2fa_screen": {
+    "title": "The Google Authenticator app protects your withdrawals and Piex account.",
+    "label": "Google Authenticator code",
+    "hint": "Enter Google Authenticator code",
+    "error": "Please enter the Google Authenticator code"
+  },
+  "link_sms_screen": {
+    "title": "SMS authentication adds another layer of security to your withdrawals and Piex account.",
+    "label": "Google Authenticator code",
+    "hint": "Enter Google Authenticator code",
+    "error": "Please enter the Google Authenticator code"
+  },
+  "link_email_screen": {
+    "title": "Email authentication adds another layer of security to your withdrawals and Piex account.",
+    "label": "Google Authenticator code",
+    "hint": "Enter Google Authenticator code",
+    "error": "Please enter the Google Authenticator code"
+  },
+  "security_modal": {
+    "label_1": "Email: ",
+    "hint_1": "Enter Email verification code",
+    "error_1": "Please enter E-mail verification code",
+    "label_2": "Phone: ",
+    "hint_2": "Enter Phone verification code",
+    "error_2": "Please enter the Phone code",
+    "label_3": "Google Authenticator code",
+    "hint_3": "Enter Google Authenticator code",
+    "error_3": "Please enter the Google Authenticator code"
+  },
+  "devices_screen": {
+    "devices": "Devices"
+  },
+  "language_modal": {
+    "title": "언어",
+    "english": "English",
+    "chinese": "Chinese",
+    "korean": "Korean"
+  },
+  "submit": "Submit",
+  "send_code": "Send code",
+  "p2p_trading": "P2P Trading",
+  "email": "Email",
+  "phone": "Phone",
+  "spot": "Spot",
+  "earn": "Earn",
+  "ok": "Ok",
+  "transfer": "Transfer",
+  "withdraw": "Withdraw",
+  "withdraw_address": {
+    "title": "Withdraw Address",
+    "description": "When this function is turned on, your account will only be able to withdraw to whitelisted withdrawal addresses.",
+    "whitelist": "Whitelist"
+  },
+  "switch_withdraw_address": "Your Withdrawal Whitelist has changed.",
+  "overview": "Overview",
+  "total_value": "Total Value(BTC)",
+  "portfolio": "Portfolio",
+  "password": "Password",
+  "old_password": "Old Password",
+  "old_password_hint": "Please enter your current password",
+  "register": "Register",
+  "task_center": "Task center",
+  "language": "Language",
+  "reward_center": "Reward center",
+  "pay": "Pay",
+  "settings": "Settings",
+  "my_gifts": "My gifts",
+  "payment_method": "Payment method",
+  "security": "Security",
+  "gift_card": "Gift card",
+  "equity_value": "Equity value(BTC)",
+  "yesterday_pnl": "Yesterday's PNL",
+  "next": "Next",
+  "signup": "Sign up",
+  "signup_description": "World's Largest Crypto Copy Trading Platform",
+  "login": "Log In",
+  "reset_your_pass": "Reset Your Password",
+  "phone_number": "Phone Number",
+  "set_password": "Set Password",
+  "confirm_password": "Confirm Password",
+  "enter_password": "Enter password",
+  "login_screen": {
+    "agree_term": "I agreed to the",
+    "login_mobile": "Log in with mobile",
+    "phone_number_hint": "Please enter phone number",
+    "email_hint": "Please enter email",
+    "forgot_password": "Forgot password?",
+    "password_hint": " Please enter your password.",
+    "register_now": "Register now"
+  }
+}

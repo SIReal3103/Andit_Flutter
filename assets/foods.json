@@ -1,0 +1,68 @@
+{
+  "foods":
+  [
+    {
+      "name": "Trứng gà",
+      "category": "egg",
+      "retail_store": "coopmart",
+      "txng_unit": "https://gkitchen.com/truy-xuat-nguon-goc/web/Coop?Batnbr=EBC885CFCB",
+      "driveid": "1WvzooZB-gMHBU3Ps9NYlnKB2im3KAxDi",
+      "rating": 5,
+      "status": "ok"
+    },
+    {
+      "name": "Thịt đùi heo",
+      "category": "pork",
+      "retail_store": "coopmart",
+      "txng_unit": "meatdeli.com.vn/txng/200678003942611224124142125815",
+      "driveid": "1v9JaUdAaGn2UkfM_gg80IBD_jNRe4NOi",
+      "rating": 5,
+      "status": "ok"
+    },
+    {
+      "name": "Phi lê gà",
+      "category": "chicken",
+      "retail_store": "coopmart",
+      "txng_unit": "cptrace.cpf.co.th",
+      "driveid": "1Cr9KL3SC3g5NRT0GdpSpeby0ereEBkaf",
+      "rating": 0,
+      "status": "error"
+    },
+    {
+      "name": "Heo sạch 3F",
+      "category": "pork",
+      "retail_store": "coopmart",
+      "txng_unit": "http://qr.icheck.vn/n/bJoWanJM",
+      "driveid": "1ibEPPTJpCIYELkK4hPQoqc9zB4qwQEqg",
+      "rating": 5,
+      "status": "ok"
+    },
+    {
+      "name": "Ớt chuông",
+      "category": "vegetables",
+      "retail_store": "coopmart",
+      "txng_unit": "",
+      "driveid": "1KeTRHMcWSrbnkXSmAotCS9IS8iRv8oLl",
+      "rating": 0,
+      "status": "error"
+    },
+    {
+      "name": "Đùi gà",
+      "category": "chicken",
+      "retail_store": "coopmart",
+      "txng_unit": "https://ttx.te-food.vn/qr=22273-15037-38",
+      "driveid": "18s60bwwnFCVfmzjzCHD-RiE4ZDiYP2VF",
+      "rating": 5,
+      "status": "ok"
+    },
+    {
+      "name": "Đùi gà",
+      "category": "chicken",
+      "retail_store": "coopmart",
+      "txng_unit": "https://te-food.vn/",
+      "driveid": "1GVrRUDhvbkoU0BeOBQagM54xTeWbFNpc",
+      "rating": 5,
+      "status": "ok"
+    }
+  ]
+  }
